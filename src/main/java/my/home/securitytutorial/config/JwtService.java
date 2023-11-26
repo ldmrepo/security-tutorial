@@ -1,4 +1,4 @@
-package my.home.securitytutorial.service;
+package my.home.securitytutorial.config;
 
 import java.security.Key;
 import java.util.Date;
