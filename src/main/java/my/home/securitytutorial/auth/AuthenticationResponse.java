@@ -1,4 +1,4 @@
-package my.home.auth;
+package my.home.securitytutorial.auth;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
